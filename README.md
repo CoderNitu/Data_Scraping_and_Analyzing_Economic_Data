@@ -5,6 +5,10 @@ Done Web/Data Scraping using "BeautifulScoup" and "requests" library of Python f
 
 Web scraping in Python is the process of automatically extracting data from targeted websites using Python libraries.
 
+
+![6zM7JBq](https://github.com/user-attachments/assets/4849cc45-2f4d-4639-bf8c-43ee337a7d64)
+
+
 ## Process Involved
 
 1. Sending HTTP requests to the URL of the targeted webpage to get the HTML file using requests or "requests" or "httpx" libraries in Python.
